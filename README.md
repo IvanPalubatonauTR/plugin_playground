@@ -1,1 +1,1 @@
-# plugin_playground
+# Implementation of simple sbt plugin
